@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-        return '123erdsf';
+        return '1231313';
     }
 }
